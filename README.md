@@ -1,2 +1,3 @@
-Wordpress-Training-
-===================
+Wordpress-Training
+==================
+WordPress Training Material
